@@ -1,6 +1,7 @@
 # NAMA = MUTHMAINNAH AISYAH
 # NIM = 2209116001
 # KELAS = SI-A
+# Post Test Randing
 
 import os
 os.system("cls")
